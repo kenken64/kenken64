@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![](1.gif)
 <!--
 **kenken64/kenken64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
