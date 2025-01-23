@@ -1,6 +1,6 @@
 <table>
 	<tr>
-	  <td>![](1.gif)![](2.gif)</td>
+	  <td><img src="1.gif"/>![](1.gif)![](2.gif)</td>
 	</tr>
 </table>
 <!--
