@@ -1,4 +1,8 @@
-![](1.gif)
+<table>
+	<tr>
+	  <td>![](1.gif)![](2.gif)</td>
+	</tr>
+</table>
 <!--
 **kenken64/kenken64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
