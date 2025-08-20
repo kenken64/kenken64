@@ -1,6 +1,6 @@
 <table>
 	<tr>
-	  <td><img src="1.gif"/><img src="2.gif"/><img src="https://render.gitanimals.org/farms/kenken64"/><img src="3.png"/></td>
+	  <td><img src="https://render.gitanimals.org/farms/kenken64"/><img src="3.png"/></td>
 	</tr>
 </table>
 <!--
